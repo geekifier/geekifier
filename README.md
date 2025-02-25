@@ -23,6 +23,9 @@ And what I am interested in working on:
 
 - Automating platform and infra delivery
 - Creating abstractions and tooling to automate, reduce friction, and make DEV and OPS team more productive
+- Providing tooling and platforms to ensure uptime and performance
+- Optimizing for performance and cost
+- Assesing, enhancing and maintainig platform and process security
 
 ### Contributions
 
