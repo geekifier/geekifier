@@ -24,6 +24,6 @@ Majority of my contributions are in private and propriatery codebases. However, 
 
 While I cannot share much of the code I have worked on, I am happy to reference my notes and discuss my implementation experience.
 
-### Currently I am working on
+### What I'm working on right now 🧑‍💻
 
 Having worked with AWS CDK for the past couple years, and having _really_ enjoyed the TypeScript development experience - I am looking back on my Terraform experience and reflecting on we can do things better.
