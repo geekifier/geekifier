@@ -10,6 +10,7 @@ Currently, I am looking for a new opportunity, where I could contribute my passi
 You can read more about my experience on my [LinkedIn Profile](https://www.linkedin.com/in/kamilmarkowicz/).
 
 Some of the technologies I have experience with:
+
 - AWS Cloud
 - Terraform + other parts of Hashicorp stack
 - AWS CDK (TypeScript)
@@ -17,6 +18,11 @@ Some of the technologies I have experience with:
 - CI/CD (Gitlab, Github, Jenkins, Azure DevOps)
 - Kubernetes, DC/OS (Mesosphere), and other container orchestrators
 - Linux systems management
+
+And what I am interested in working on:
+
+- Automating platform and infra delivery
+- Creating abstractions and tooling to automate, reduce friction, and make DEV and OPS team more productive
 
 ### Contributions
 
