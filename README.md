@@ -36,3 +36,10 @@ While I cannot share much of the code I have worked on, I am happy to reference 
 ### What I'm working on right now 🧑‍💻
 
 Having worked with AWS CDK for the past couple years, and having _really_ enjoyed the TypeScript development experience - I am looking back on my Terraform experience and reflecting on we can do things better.
+
+### Interests outside of tech
+
+I am (un)fortunate to have many hobbies and interests, but lately I have been working on:
+- 3D Printing and Modeling - check out my [printables.com profile](https://www.printables.com/@geekifier).
+- Home Improvement - I like building things (see the pattern yet?)
+- Trying to do a good job as a parent 😅
