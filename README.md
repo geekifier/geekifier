@@ -7,7 +7,7 @@ This includes 10+ years working with AWS, enjoying working in both architecture 
 
 Currently, I am looking for a new opportunity, where I could contribute my passion for automation and process improvements, as well as my broad experience in the industry.
 
-You can read more about my experience on my [LinkedIn Profile](https://www.linkedin.com/in/kamilmarkowicz/).
+You can read more about my professional experience on my [LinkedIn Profile](https://www.linkedin.com/in/kamilmarkowicz/), and see the [contributions](https://github.com/geekifier/geekifier/edit/master/README.md#contributions) section to review some of my work.
 
 Some of the technologies I have experience with:
 
@@ -33,9 +33,14 @@ Majority of my contributions are in private and propriatery codebases. However, 
 
 While I cannot share much of the code I have worked on, I am happy to reference my notes and discuss my implementation experience.
 
+* **[Recent Code Contributions to Open Source Projects](https://github.com/search?q=author%3Ageekifier+is%3Apublic+-user%3Ageekifier&type=commits&s=author-date&o=desc)**  
+* **[My Public Repos](https://github.com/geekifier?tab=repositories)**
+
 ### What I'm working on right now 🧑‍💻
 
 Having worked with AWS CDK for the past couple years, and having _really_ enjoyed the TypeScript development experience - I am looking back on my Terraform experience and reflecting on we can do things better.
+
+I am also working on some interesting Kubernetes-related projects, more to come.
 
 ### Interests outside of tech
 
