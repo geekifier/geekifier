@@ -7,7 +7,7 @@ This includes 10+ years working with AWS, enjoying working in both architecture 
 
 Currently, I am looking for a new opportunity, where I could contribute my passion for automation and process improvements, as well as my broad experience in the industry.
 
-You can read more about my professional experience on my [LinkedIn Profile](https://www.linkedin.com/in/kamilmarkowicz/), and see the [contributions](https://github.com/geekifier/geekifier/edit/master/README.md#contributions) section to review some of my work.
+You can read more about my professional experience on my [LinkedIn Profile](https://www.linkedin.com/in/kamilmarkowicz/), and review the [contributions](#contributions) section to review some of my work.
 
 Some of the technologies I have experience with:
 
